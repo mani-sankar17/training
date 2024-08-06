@@ -1,2 +1,4 @@
 # training
-This is a repository created for learning purpose...😊
+
+Hello boiss and garlss 
+Alvida Voila Anyaseyo Namaskar Hello Namaste !!!
