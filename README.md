@@ -1,5 +1,8 @@
 # Training mamulgaa ledu gaaaa
-> You are now making changes in your README file 
-`Changes once made are committed and pushed into github`
 
+<<<<<<< HEAD
 local computer code is being edited 
+=======
+
+SCratch Nunchi malla modhalu pedtha
+>>>>>>> b6ffcae43834750132f7f8b28bd0346fb8c75dec
